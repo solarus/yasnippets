@@ -1,0 +1,4 @@
+snippets/*
+!snippets/haskell-mode
+yasnippet.el
+dropdown-list.el
